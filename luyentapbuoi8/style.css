@@ -1,0 +1,16 @@
+body{
+    /* background-color: pink; */
+    /* font-family: 'Nunito', sans-serif; */
+    font-weight: 200;
+    height: 100vh;
+    color: #333;
+    /* background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%); */
+    background-image: linear-gradient(#871e52, red, #40162b);
+    /* background-image: radial-gradient(yellow , green, blue); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+        /* background-image: ; */
+}
